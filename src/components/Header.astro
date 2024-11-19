@@ -5,11 +5,11 @@ import { SITE_TITLE } from '../consts';
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><a href="/"><img src="/media/logo_transparent.png"></a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/about">About me</HeaderLink>
 		</div>
 		<div class="social-links">
 			<a href="https://m.webtoo.ls/@astro" target="_blank">
@@ -44,9 +44,14 @@ import { SITE_TITLE } from '../consts';
 </header>
 <style>
 	header {
+		position: fixed;
+		left: 0;
+		right: 0;
+		width: 100%;
+		z-index: 1000;
 		margin: 0;
 		padding: 0 1em;
-		background: white;
+		background: dimgrey;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
 	}
 	h2 {
@@ -58,10 +63,15 @@ import { SITE_TITLE } from '../consts';
 	h2 a.active {
 		text-decoration: none;
 	}
+	h2 img{
+		width: 70px;
+		height: auto;
+	}
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		padding-right: 2rem;
 	}
 	nav a {
 		padding: 1em 0.5em;
