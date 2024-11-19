@@ -1,11 +1,17 @@
 ---
 import HeaderLink from "./HeaderLink.astro";
+import instagramLogo from "../media/instagramLogo.svg";
+import twitchLogo from "../media/twitchLogo.svg";
+import logoTransparent from "../media/logoTransparent.png";
 import { SITE_TITLE } from "../consts";
+import { Image } from "astro:assets";
 ---
 
 <header>
   <nav>
-    <h2><a href="/"><img src="/media/logoTransparent.png" /></a></h2>
+    <h2>
+      <a href="/"><Image src={logoTransparent} alt="main logo" srcset="" /></a>
+    </h2>
     <div class="internal-links">
       <HeaderLink href="/">Home</HeaderLink>
       <HeaderLink href="/blog">Blog</HeaderLink>
@@ -13,10 +19,10 @@ import { SITE_TITLE } from "../consts";
     </div>
     <div class="social-links">
       <a href="http://twitch.tv/gaetancode_" target="_blank">
-        <img src="/media/twitchLogo.svg" alt="" srcset="" /></a
+        <Image src={twitchLogo} alt="Twitch Logo" srcset="" /></a
       >
       <a href="https://www.instagram.com/gaetancode_/" target="_blank">
-        <img src="/media/instagramLogo.svg" alt="" srcset="" /></a
+        <Image src={instagramLogo} alt="Instagram Logo" srcset="" /></a
       >
     </div>
   </nav>
