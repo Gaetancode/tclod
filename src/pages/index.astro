@@ -1,33 +1,44 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 ---
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>TCLOD</h1>
-			<p>
-				Salut ! Je m'appelle Gaëtan, développeur web fullstack en formation, et je te présente TCLOD.
-			</p>
-			<p>
-				<span>T</span>he <span>C</span>hallenge <span>L</span>ife <span>O</span>f a <span>D</span>evelopper est un blog dans lequel je vais te parler de mon parcours de developper, de mes passions, bref de moi.
-			</p>
-			<p>Voici une courte liste de ce que tu trouveras ici:</p>
-			<ul>
-				<li>Des articles sur le développement, les jeux vidéo, les nouvelles technologies etc...</li>
-				<li>Ce que tu ne trouveras pas en revanche, c'est la possibilité de laisser des commentaires et je t'explique dans cet <a href="http://">article</a> le pourquoi du comment.</li>
-			</ul>
-			<p>Gaëtan</p>
-				
-		</main>
-		<Footer />
-	</body>
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <img src="/public/homePicture.webp" alt="" srcset="" />
+      <h1>TCLOD</h1>
+      <p>
+        Salut ! Je m'appelle Gaëtan, développeur web fullstack en formation, et
+        je te présente TCLOD.
+      </p>
+      <p>
+        <span>T</span>he <span>C</span>hallenge <span>L</span>ife <span>O</span
+        >f a <span>D</span>evelopper est un blog dans lequel je vais te parler
+        de mon parcours de developper, de mes passions, bref de moi.
+      </p>
+      <p>Voici une courte liste de ce que tu trouveras ici :</p>
+      <ul>
+        <li>
+          Des articles sur le développement, les jeux vidéo, les nouvelles
+          technologies etc...
+        </li>
+        <li>
+          Ce que tu ne trouveras pas en revanche, c'est la possibilité de
+          laisser des commentaires et je t'explique dans cet <a href="http://"
+            >article</a
+          > le pourquoi du comment.
+        </li>
+      </ul>
+      <p>Gaëtan</p>
+    </main>
+    <Footer />
+  </body>
 </html>
