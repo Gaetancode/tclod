@@ -1,6 +1,6 @@
 ---
 title: Pourquoi j'utilise Threads pour mon blog.
-pubDate: 19/11/2024
+pubDate: 22/11/2024
 description: dwdwdw
 heroImage: /images/uploads/threadpicture.webp
 ---
