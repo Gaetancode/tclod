@@ -1,16 +1,43 @@
 ---
-title: First post
-pubDate: 19/11/2024
-description: Lorem ipsum dolor sit amet
-heroImage: /blog-placeholder-3.jpg
+title: Pourquoi j'utilise Threads pour mon blog.
+pubDate: 22/11/2024
+description: dwdwdw
+heroImage: /images/uploads/threadpicture.webp
 ---
+## Intro
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Comme je l'indiquais sur la page d'accueil, ce blog ne disposera pas d'espace commentaire. Pourquoi ? Voici les différentes raisons à cela :
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+* Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
+* Je veux que ce blog soit un espace de lecture SEULEMENT.
+
+Ouais alors pouce ! J'ai pas dit que je ne voulais pas de commentaire, bien au contraire. Si c'est fait de manière constructive, ça ne peut être que bénéfique.
+
+## Threads
+
+> — <cite>Mais de quoi qu'il cause lui encore ? C'est quoi sa encore Traid ?</cite>😶
+
+Alors pour commencer sa s'écrit T H R E A D S. Et si tu connais pas, c'est parce que c'est sortis récemment 14/12/23. Mais dans les grandes lignes c'est le twitter de Facebook/Instagram (bref sa à appartient à Mark Zuckerberg).
+
+J'ai donc décidé d'utilisé ce média, afin d'interagir avec celles et ceux qui le voudront bien. Alors on va pas se mentir, sa me permet aussi d'esquiver (pour le moment) toute la partie gestion de compte, base de données, commentaires etc... 🤣.
+
+Mais surtout je l'utiliserai pour vous tenir au courant lors de la sortie d'un nouvel article. Et toi par la suite, tu auras juste à commenter sur Threads en dessous du post.
+
+Surtout c'est plus simple pour moi, de voir à distance vos commentaires, et de vous répondre. 
+
+## Et pourquoi pas Wordpress?
+
+1. Tout simplement parce que déjà, c'est mon blog.
+2. Pas envie de faire un blog wordpress like c'est du vu et revue.
+3. Oui sa serait plus simple de passé par lui pour faire tout ce que l'on à cité au dessus. Mai j'ai d'autres projets pour ce blog dans le futur.
+
+## Mot de la fin ?
+
+Alors déjà, merci à toi d'avoir pris le temps de lire mes conneries. Et puis j'ai gavé (plein, pour celle et ceux qui viennent pas du sud) d'idées, pour les future articles.\
+\
+Bon j'te laisse j'ai une compèt' de plongée sous couette.
+
+![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhkZ3Q3c3RsMnpieW1nYTltZnNvaGZvY2w4Z3RzMmR0cGhocGNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mkhMTALnrYRLnuoe5P/giphy.gif)
