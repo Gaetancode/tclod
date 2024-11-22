@@ -16,7 +16,8 @@ Bon détent toi je vais pas te sortir la définition dans le dictionnaire car el
 
 Alors la capture ci-dessus provient directement du site officiel du [Larousse](https://www.larousse.fr/dictionnaires/francais/geek/10910404).
 
-Bon... Au-delà du fait que l'on soit stéréotypé comme des junky d'informatique, science fiction etc, ce que je retiens (et ce qui ressort sur d'autres recherches que j'ai mené), c'est "fou de, passionné de.
+Bon... Au-delà du fait que l'on soit stéréotypé comme des junky d'informatique, science fiction etc, ce que je retiens (et ce qui ressort sur d'autres recherches que j'ai mené), c'est "fou de, passionné de
+".
 
 ![](/images/uploads/article-geek.webp)
 
