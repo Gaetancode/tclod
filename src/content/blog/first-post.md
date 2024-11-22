@@ -1,18 +1,16 @@
 ---
 title: Pourquoi j'utilise Threads pour mon blog.
 pubDate: 22/11/2024
-description: dwdwdw
+description: Explication de Threads avec le blog
 heroImage: /images/uploads/threadpicture.webp
 ---
-## Intro
 
+## Intro
 
 Comme je l'indiquais sur la page d'accueil, ce blog ne disposera pas d'espace commentaire. Pourquoi ? Voici les différentes raisons à cela :
 
-
-
-* Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
-* Je veux que ce blog soit un espace de lecture SEULEMENT.
+- Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
+- Je veux que ce blog soit un espace de lecture SEULEMENT.
 
 Ouais alors pouce ! J'ai pas dit que je ne voulais pas de commentaire, bien au contraire. Si c'est fait de manière constructive, ça ne peut être que bénéfique.
 
@@ -26,7 +24,7 @@ J'ai donc décidé d'utilisé ce média, afin d'interagir avec celles et ceux qu
 
 Mais surtout je l'utiliserai pour vous tenir au courant lors de la sortie d'un nouvel article. Et toi par la suite, tu auras juste à commenter sur Threads en dessous du post.
 
-Surtout c'est plus simple pour moi, de voir à distance vos commentaires, et de vous répondre. 
+Surtout c'est plus simple pour moi, de voir à distance vos commentaires, et de vous répondre.
 
 ## Et pourquoi pas Wordpress?
 
