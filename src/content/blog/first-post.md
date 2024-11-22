@@ -6,10 +6,7 @@ heroImage: /images/uploads/threadpicture.webp
 ---
 ## Intro
 
-
 Comme je l'indiquais sur la page d'accueil, ce blog ne disposera pas d'espace commentaire. Pourquoi ? Voici les différentes raisons à cela :
-
-
 
 * Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
 * Je veux que ce blog soit un espace de lecture SEULEMENT.
@@ -32,7 +29,7 @@ Surtout c'est plus simple pour moi, de voir à distance vos commentaires, et de 
 
 1. Tout simplement parce que déjà, c'est mon blog.
 2. Pas envie de faire un blog wordpress like c'est du vu et revue.
-3. Oui sa serait plus simple de passé par lui pour faire tout ce que l'on à cité au dessus. Mai j'ai d'autres projets pour ce blog dans le futur.
+3. Oui sa serait plus simple de passé par lui pour faire tout ce que l'on à cité au dessus. Mais j'ai d'autres projets pour ce blog dans le futur.
 
 ## Mot de la fin ?
 
