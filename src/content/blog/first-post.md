@@ -11,11 +11,11 @@ Comme je l'indiquais sur la page d'accueil, ce blog ne disposera pas d'espace co
 
 - Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
 - Je veux que ce blog soit un espace de lecture SEULEMENT.
-=======
+
 Comme je l'indiquais sur la page d'accueil, ce blog ne disposera pas d'espace commentaire. Pourquoi ? Voici les différentes raisons à cela :
 
-* Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
-* Je veux que ce blog soit un espace de lecture SEULEMENT.
+- Étant encore tout nouveau dans le monde du dev' (actuellement j'apprends Javascript), tu te doute bien que tout ce qui est backend et base de donnée, c'est pas vraiment encore pour tout de suite.
+- Je veux que ce blog soit un espace de lecture SEULEMENT.
 
 Ouais alors pouce ! J'ai pas dit que je ne voulais pas de commentaire, bien au contraire. Si c'est fait de manière constructive, ça ne peut être que bénéfique.
 
