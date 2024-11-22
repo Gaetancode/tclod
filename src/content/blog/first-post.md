@@ -2,7 +2,7 @@
 title: Pourquoi j'utilise Thread pour mon blog.
 pubDate: 19/11/2024
 description: dwdwdw
-heroImage: /images/uploads/instagram-threads-meta-twitter-imago262589192-fc80008000ffff_1600x1200.jpg
+heroImage: /images/uploads/threadpicture.webp
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
