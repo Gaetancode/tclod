@@ -2,6 +2,7 @@
 title: Finalement c'est quoi un geek ?
 pubDate: 22/11/2024
 description: Définition du mot geek
+heroImage: /images/uploads/proformatminiature.webp
 ---
 ## Intro
 
