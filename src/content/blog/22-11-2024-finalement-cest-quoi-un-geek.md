@@ -1,6 +1,6 @@
 ---
 title: "Être Geek en 2024 : Bien Plus qu'un Simple Passionné d'Info ! 🤓"
-pubDate: 22/11/2024
+pubDate: 26/11/2024
 description: Définition du mot geek
 heroImage: /images/uploads/proformatminiature.webp
 ---
