@@ -1,30 +1,53 @@
 ---
-title: Finalement c'est quoi un geek ?
+title: "Être Geek en 2024 : Bien Plus qu'un Simple Passionné d'Info ! 🤓"
 pubDate: 22/11/2024
 description: Définition du mot geek
 heroImage: /images/uploads/proformatminiature.webp
 ---
 ## Intro
 
-Lors de la rédaction de ma page [About me](https://tclod.netlify.app/about/)[](https://tclod.netlify.app/about/), je vous est parlé de mes passions. Et là, je me suis rendu compte que sa faisait vachement "Geek". Mais finalement c'est quoi un Geek ? Même si pendant longtemps c'était carrément péjoratif comme terme, aujourd'hui ça va un peu mieux.
+Lors de la rédaction de ma page [About me](https://tclod.netlify.app/about/)[](https://tclod.netlify.app/about/), je vous est parlé de mes passions. Je me suis fait une réflexion : "Wow, ça fait vachement geek ça !" Et là, ça m'a fait tilter... Mais au fait, c'est quoi être geek en 2024 ? 🤔
 
-## Définition
+## La Définition... Pas Si Simple !
 
-Bon détent toi je vais pas te sortir la définition dans le dictionnaire car elle existe ~~pas~~... M*rde 😵
+Bon, je vous vois venir avec vos grands yeux : "Balance-nous la définition du dico !" Sauf que... c'est pas si simple ! 😅
+Ok, le Larousse nous sort le traditionnel "passionné d'informatique et de sciences". Mais sérieux, en 2024, on en est encore là ? 
 
 ![image sur la définition du mot geek](/images/uploads/screenshot-2024-11-22-130417.png)
 
-Alors la capture ci-dessus provient directement du site officiel du [Larousse](https://www.larousse.fr/dictionnaires/francais/geek/10910404).
+Source du site officiel du [Larousse](https://www.larousse.fr/dictionnaires/francais/geek/10910404).
 
-Bon... Au-delà du fait que l'on soit stéréotypé comme des junky d'informatique, science fiction etc, ce que je retiens (et ce qui ressort sur d'autres recherches que j'ai mené), c'est "fou de, passionné de".
 
-![](/images/uploads/article-geek.webp)
+## La Vraie Life des Geeks
 
-source : [La gazette du midi](https://gazette-du-midi.fr/edito/opinions/qu-est-ce-qu-un-geek-en-2022)
+Allez, on va briser les clichés deux secondes :
+- Non, tous les geeks ne codent pas 24/7 en buvant du RedBull
+- Non, on n'est pas tous des no-life qui vivent dans leur cave
+- Et oui, on peut être geek ET avoir une vie sociale ! 😱
 
-## Conclusion
+## En Vrai, C'est Quoi Être Geek ?
 
-Grosso modo, si je résume, finalement un geek c'est un/une passionné(e) dans un domaine particulier. Donc rassure toi Géraldine tu as le droit d'être une geek du tricot 😆. Et au contraire revendique le, ça veut dire que tu master (maîtrise) ton sujet.\
+La réponse est simple : c'est juste être PASSIONNÉ(E) ! Point barre. 
+
+Tu kiffes :
+- Les mangas jusqu'à 3h du mat' ? Geek !
+- Tricoter des écharpes Harry Potter ? Geek !
+- Collectionner les timbres ? Guess what... Geek !
+- La cuisine moléculaire ? Toujours geek !
+
+## Le Plot Twist
+
+Le truc dingue, c'est qu'aujourd'hui, être geek c'est presque devenu... cool ? 😎 
+- Les gamers sont des stars sur Twitch
+- Les dev sont les rock stars des startups
+- Même mamie qui maîtrise Pinterest mieux que nous, c'est une geek !
+
+## Pour Conclure...
+
+Être geek en 2024, c'est juste assumer ses passions à fond ! Que tu sois fan de programmation, de tricot (oui Géraldine, toi aussi tu as le droit d'être une Geek 😉), ou de n'importe quoi d'autre... Lance-toi à fond et sois fier/fière !
+
+*PS : Si quelqu'un vous traite de geek, prenez ça comme un compliment - ça veut juste dire que vous êtes tellement bon dans votre domaine que ça impressionne les autres !*
+
+Perso, je retourne à mes passions geek. Et vous, c'est quoi votre "truc de geek" ? 🤪
 \
-Sur ceux je vous laisse je retourne à mes passions ;)\
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE1dTdhOGJwbWhlMXB5bTBwM2l0enc2NzJrYW1lZDIxOXB2YmsxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif)
+Sur ceux je vous laisse je retourne à mes passions ;)![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE1dTdhOGJwbWhlMXB5bTBwM2l0enc2NzJrYW1lZDIxOXB2YmsxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif)
