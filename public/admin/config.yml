@@ -7,6 +7,8 @@ public_folder: "/images/uploads"
 
 locale: "fr"
 
+publish_mode: editorial_workflow # Active le workflow éditorial
+
 collections:
   - name: "blog"
     label: "Blog Post"
@@ -15,6 +17,13 @@ collections:
     slug: "{{day}}-{{month}}-{{year}}-{{slug}}"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
+      - {
+          label: "Statut",
+          name: "status",
+          widget: "select",
+          options: ["draft", "published"],
+          default: "draft",
+        }
       - {
           label: "Date de publication",
           name: "pubDate",
