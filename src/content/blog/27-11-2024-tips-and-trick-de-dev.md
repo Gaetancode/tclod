@@ -1,5 +1,5 @@
 ---
-title: EMMET le meilleur des dev' juniors (et pas que)
+title: EMMET le meilleur ami des dev' juniors (et pas que)
 status: draft
 pubDate: 27/11/2024
 description: Je te propose ici les petits tips and trick qui me font gagné du
