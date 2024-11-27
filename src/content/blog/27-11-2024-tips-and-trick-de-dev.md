@@ -5,8 +5,6 @@ pubDate: 27/11/2024
 description: Je te propose ici les petits tips and trick qui me font gagné du
   temps en tant que dev' junior
 ---
-
-
 ## Emmet
 
 *De manière générale et pour cet article, j'utilise l'IDE (Integrated Development Environment - éditeur de code) [Visual Studio Code](https://code.visualstudio.com/download)*.
@@ -35,3 +33,7 @@ C'est là que le plugin intervient. Il te suffit juste d'écrire `html` et il te
 
 Création d'une div que je nommerai "tuto", à l'aide de l'attribut `class=""`.
 ![](/images/uploads/div.gif)
+
+Ici une liste non ordonné avec 3 exemple nommé test.
+
+![](/images/uploads/list.gif)
