@@ -20,6 +20,8 @@ C'est un plugin d'aide à la saisie de code HTML/CSS dans VS Code (il est instal
 
 Ok, par exemple, lorsque tu rédiges une page HTML, il te faut la base de celle-ci, right ?
 
+*Je pars du principe, que tu sais se que chaque ligne veut dire.*
+
 ```
 <!DOCTYPE html>
 <html lang="en">
