@@ -34,6 +34,8 @@ C'est là que le plugin intervient. Il te suffit juste d'écrire `html` et il te
 Création d'une div que je nommerai "tuto", à l'aide de l'attribut `class=""`.
 ![](/images/uploads/div.gif)
 
-Ici une liste non ordonné avec 3 exemple nommé test.
-
+Ici une liste non ordonné avec 3 items nommé test.
 ![](/images/uploads/list.gif)
+
+Ou encore, quelque chose de plus simple, comme l'ouverture/fermeture automatique d'une balise, juste en tapant sa dénomination (ici, `<p>` pour paragraphe).
+![](/images/uploads/paragraphe.gif)
