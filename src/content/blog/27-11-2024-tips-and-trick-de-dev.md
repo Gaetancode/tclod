@@ -39,3 +39,6 @@ Ici une liste non ordonné avec 3 items nommé test.
 
 Ou encore, quelque chose de plus simple, comme l'ouverture/fermeture automatique d'une balise, juste en tapant sa dénomination (ici, `<p>` pour paragraphe).
 ![](/images/uploads/paragraphe.gif)
+
+## Le mot de la fin
+Tu l'auras compris, ce sont quelques secondes gagnées, mais crois-moi, ça change la vie et c'est un réel confort au quotidien. Je ne saurais que trop te conseiller de rédiger tes lignes de code par toi-même, surtout si tu es comme moi qui retiens plus facilement en rédigeant.
