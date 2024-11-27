@@ -28,3 +28,5 @@ Oui, au début j'écrivais chacune de ces lignes afin de savoir ce qu'elles sign
 
 
 C'est là que le plugin intervient. Il te suffit juste d'écrire `html` et il te propose une liste de codes pré-faits.
+
+![gif qui montre le raccourci pour html 5](/images/uploads/peek.gif)
