@@ -22,4 +22,6 @@ Ok, par exemple, lorsque tu rédiges une page HTML, il te faut la base de celle-
 
 *Je pars du principe que tu sais ce que chaque ligne veut dire.*
 ![code picture](/images/uploads/code.png)
-wdwd
+
+
+Oui, au début j'écrivais chacune de ces lignes afin de savoir ce qu'elles signifiaient en terme de code. Mais bon, on ne va pas se mentir, à la longue (et surtout quand tu sais ce que cela veut dire) c'est casse-couille chiant à écrire.
