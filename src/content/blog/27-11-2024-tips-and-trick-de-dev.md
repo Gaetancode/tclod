@@ -25,3 +25,6 @@ Ok, par exemple, lorsque tu rédiges une page HTML, il te faut la base de celle-
 
 
 Oui, au début j'écrivais chacune de ces lignes afin de savoir ce qu'elles signifiaient en terme de code. Mais bon, on ne va pas se mentir, à la longue (et surtout quand tu sais ce que cela veut dire) c'est casse-couille chiant à écrire.
+
+
+C'est là que le plugin intervient. Il te suffit juste d'écrire `html` et il te propose une liste de codes pré-faits.
