@@ -21,17 +21,4 @@ C'est un plugin d'aide à la saisie de code HTML/CSS dans VS Code (il est instal
 Ok, par exemple, lorsque tu rédiges une page HTML, il te faut la base de celle-ci, right ?
 
 *Je pars du principe, que tu sais se que chaque ligne veut dire.*
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <!-- Ici tu mets ton code HTML -->
-</body>
-</html>
-```
+![image code html](/images/uploads/code.png) 
