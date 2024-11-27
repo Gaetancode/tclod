@@ -5,7 +5,7 @@
  */
 
 :root {
-  --accent:rgba(93, 240, 240, 0.723);
+  --accent: rgba(93, 240, 240, 0.723);
   --accent-dark: #000d8a;
   --black: 15, 18, 25;
   --gray: 96, 115, 159;
@@ -48,10 +48,10 @@ main {
   margin: auto;
   padding: 7em 1em;
 }
-span{
+span {
   font-size: larger;
   font-weight: bold;
-  color:rgba(255, 166, 0, 0.608);
+  color: rgba(255, 166, 0, 0.608);
 }
 h1,
 h2,
@@ -114,7 +114,7 @@ img {
 }
 code {
   padding: 2px 5px;
-  background-color: rgb(var(--gray-light));
+  background-color: #a8c1ff;
   border-radius: 2px;
 }
 pre {
