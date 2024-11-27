@@ -5,6 +5,8 @@ pubDate: 27/11/2024
 description: Je te propose ici les petits tips and trick qui me font gagné du
   temps en tant que dev' junior
 ---
+![code picture](/images/uploads/code.png)
+
 ## Emmet
 
 *De manière générale et pour cet article, j'utilise l'IDE (Integrated Development Environment - éditeur de code) [Visual Studio Code](https://code.visualstudio.com/download)*.
@@ -21,4 +23,4 @@ C'est un plugin d'aide à la saisie de code HTML/CSS dans VS Code (il est instal
 Ok, par exemple, lorsque tu rédiges une page HTML, il te faut la base de celle-ci, right ?
 
 *Je pars du principe, que tu sais se que chaque ligne veut dire.*
-![image code html](/images/uploads/code.png) 
+![code picture](/images/uploads/code.png)
