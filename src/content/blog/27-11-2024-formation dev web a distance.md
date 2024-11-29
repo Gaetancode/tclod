@@ -1,7 +1,7 @@
 ---
 title: "Formation Dev Web à Distance : Mon Expérience en Mode Full Remote ! 🎓"
 status: draft
-pubDate: 27/11/2024
+pubDate: 26/11/2024
 description: Dans cet article je partage mon expérience sur la formation à distance.
 heroImage: /images/uploads/homedesk.png
 ---
