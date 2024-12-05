@@ -3,7 +3,7 @@ title: "Les I.A et le code : Des assistants, pas des remplaçants !"
 status: draft
 pubDate: 27/11/2024
 description: Ici je parle de comment les I.A m'aide en tant que développeur.
-heroImage: /images/uploads/leonardo_phoenix_une_scne_futuriste_et_lgante_montrant_une_int_1.jpg
+heroImage: /images/uploads/iatool.webp
 ---
 ## Une Petite Mise au Point Nécessaire
 
