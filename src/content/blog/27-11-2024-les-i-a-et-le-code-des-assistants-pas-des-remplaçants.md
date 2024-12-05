@@ -3,6 +3,7 @@ title: "Les I.A et le code : Des assistants, pas des remplaçants !"
 status: draft
 pubDate: 27/11/2024
 description: Ici je parle de comment les I.A m'aide en tant que développeur.
+heroImage: /images/uploads/leonardo_phoenix_une_scne_futuriste_et_lgante_montrant_une_int_1.jpg
 ---
 ## Une Petite Mise au Point Nécessaire
 
@@ -18,7 +19,7 @@ Imaginez une doc qui peut répondre à VOS questions spécifiques, qui peut adap
 Les IA, c'est un peu comme avoir un GPS pour coder. Est-ce que le GPS conduit à votre place ? Non. Est-ce qu'il vous aide à arriver à destination plus efficacement ? Absolument ! C'est pareil avec les IA : elles vous guident, vous donnent des pistes, mais c'est VOUS qui gardez le contrôle du volant. C'est VOUS qui prenez les décisions finales, qui comprenez ce que vous codez, et qui assumez la responsabilité du résultat.
 
 ## Pourquoi J'Aime (Bien) les IA
-Dans mon quotidien de dev, les IA sont devenues un outil précieux parce qu'elles :
+Dans mon quotidien de dev, les IA sont devenues un outil précieux parce qu'elles:
 
 - Me font gagner du temps quand je suis bloqué
 - M'aident à comprendre des concepts complexes
